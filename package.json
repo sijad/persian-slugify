@@ -24,7 +24,8 @@
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "test": "jest"
   },
   "files": [
     "src",
